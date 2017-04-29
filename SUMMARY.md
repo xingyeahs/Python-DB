@@ -1,12 +1,10 @@
 # Summary
 
 * [数据库介绍](README.md)
-  * Redis
-  * 实战:用户登录注册
 * [MySQL基本使用](mysqlji-ben-shi-yong.md)
   * [安装与使用](mysqlji-ben-shi-yong/an-zhuang-yu-shi-yong.md)
 * [MySQL内置函数](mysqlnei-zhi-han-shu.md)
-* MySQL查询
+* [MySQL查询](mysqlcha-xun.md)
 * MySQL扩展
 * MySQL与Python交互
 * [MongoDB](mongodb.md)
