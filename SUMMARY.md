@@ -31,8 +31,8 @@
     * [Limit&Skip](mongodb/shu-ju-cha-xun/limitandskip.md)
     * [投影](mongodb/shu-ju-cha-xun/tou-ying.md)
     * [排序](mongodb/shu-ju-cha-xun/pai-xu.md)
-    * 统计个数
-    * 消除重复
+    * [统计个数](mongodb/shu-ju-cha-xun/tong-ji-ge-shu.md)
+    * [消除重复](mongodb/shu-ju-cha-xun/xiao-chu-zhong-fu.md)
   * [聚合](mongodb/ju-he.md)
   * [索引](mongodb/suo-yin.md)
   * 备份与恢复
