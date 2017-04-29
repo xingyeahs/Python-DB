@@ -1,12 +1,54 @@
 # Summary
 
 * [数据库介绍](README.md)
-* [数据库基本操作](chapter1.md)
-* MySQL内置函数
+  * Redis
+  * 实战:用户登录注册
+* [MySQL基本使用](mysqlji-ben-shi-yong.md)
+  * [安装与使用](mysqlji-ben-shi-yong/an-zhuang-yu-shi-yong.md)
+* [MySQL内置函数](mysqlnei-zhi-han-shu.md)
 * MySQL查询
 * MySQL扩展
 * MySQL与Python交互
 * [MongoDB](mongodb.md)
-* Redis
+  * [安装](mongodb/an-zhuang.md)
+  * [基本操作](mongodb/ji-ben-cao-zuo.md)
+    * 数据库操作
+    * 集合操作
+    * 数据类型
+    * 数据增改删
+  * [数据查询](mongodb/shu-ju-cha-xun.md)
+    * Limit&Skip
+    * 投影
+    * 排序
+    * 统计个数
+    * 消除重复
+  * 聚合
+  * 索引
+  * 备份与恢复
+  * 和Python交互
+  * 总结&作业
+* [Redis](redis.md)
+  * 安装
+  * 配置
+  * 服务器&客户端
+  * 数据操作
+    * string
+    * 键命令
+    * hash
+    * list
+    * set
+    * zset
+  * 和Python交互
+    * StrictRedis调用
+    * StrictPipeline调用
+  * 搭建主从
+  * 搭建集群
+  * 总结与作业
 * 实战:用户注册登录
+  * MySQL数据表设计
+  * 注册
+  * 登录
+  * 加入MongoDB
+  * 加入Redis
+  * 总结&作业
 
