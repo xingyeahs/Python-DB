@@ -3,25 +3,38 @@
 * [数据库介绍](README.md)
 * [MySQL基本使用](mysqlji-ben-shi-yong.md)
   * [安装与使用](mysqlji-ben-shi-yong/an-zhuang-yu-shi-yong.md)
+  * [约束](mysqlji-ben-shi-yong/shu-ju-wan-zheng-xing.md)
+  * [数据库设计](mysqlji-ben-shi-yong/shu-ju-ku-she-ji.md)
+  * [Navicat操作](mysqlji-ben-shi-yong/navicatcao-zuo.md)
+    * [数据库操作](mysqlji-ben-shi-yong/navicatcao-zuo/shu-ju-ku-cao-zuo.md)
+    * [数据表操作](mysqlji-ben-shi-yong/navicatcao-zuo/shu-ju-biao-cao-zuo.md)
+    * [数据操作](mysqlji-ben-shi-yong/navicatcao-zuo/shu-ju-cao-zuo.md)
+  * [命令脚本操作](mysqlji-ben-shi-yong/ming-ling-jiao-ben-cao-zuo.md)
+    * [数据库操作](mysqlji-ben-shi-yong/shu-ju-ku-cao-zuo.md)
+    * 数据表操作
+    * 数据curd
+    * 备份与恢复
+  * [练习](mysqlji-ben-shi-yong/lian-xi.md)
+  * [总结&作业](mysqlji-ben-shi-yong/zong-7ed326-zuo-ye.md)
 * [MySQL内置函数](mysqlnei-zhi-han-shu.md)
 * [MySQL查询](mysqlcha-xun.md)
-* MySQL扩展
-* MySQL与Python交互
+* [MySQL扩展](mysqlkuo-zhan.md)
+* [MySQL与Python交互](mysqlyu-python-jiao-hu.md)
 * [MongoDB](mongodb.md)
   * [安装](mongodb/an-zhuang.md)
   * [基本操作](mongodb/ji-ben-cao-zuo.md)
-    * 数据库操作
-    * 集合操作
-    * 数据类型
-    * 数据增改删
+    * [数据库操作](mongodb/ji-ben-cao-zuo/shu-ju-ku-cao-zuo.md)
+    * [集合操作](mongodb/ji-ben-cao-zuo/ji-he-cao-zuo.md)
+    * [数据类型](mongodb/ji-ben-cao-zuo/shu-ju-lei-xing.md)
+    * [数据增改删](mongodb/ji-ben-cao-zuo/shu-ju-zeng-gai-shan.md)
   * [数据查询](mongodb/shu-ju-cha-xun.md)
-    * Limit&Skip
-    * 投影
-    * 排序
+    * [Limit&Skip](mongodb/shu-ju-cha-xun/limitandskip.md)
+    * [投影](mongodb/shu-ju-cha-xun/tou-ying.md)
+    * [排序](mongodb/shu-ju-cha-xun/pai-xu.md)
     * 统计个数
     * 消除重复
-  * 聚合
-  * 索引
+  * [聚合](mongodb/ju-he.md)
+  * [索引](mongodb/suo-yin.md)
   * 备份与恢复
   * 和Python交互
   * 总结&作业

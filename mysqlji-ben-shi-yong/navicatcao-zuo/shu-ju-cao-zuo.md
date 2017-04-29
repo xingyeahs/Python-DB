@@ -1,4 +1,4 @@
-```
+```py
 print("hello world")
 ```
 
