@@ -39,7 +39,7 @@
   * 和Python交互
   * 总结&作业
 * [Redis](redis.md)
-  * 安装
+  * [安装](redis/an-zhuang.md)
   * 配置
   * 服务器&客户端
   * 数据操作
